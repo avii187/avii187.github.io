@@ -1,0 +1,345 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", Sans-serif;
+    
+}
+body{
+   overflow-x: hidden;
+  
+    /* background-color: rgb(212, 194, 184); */
+    background-color: #63aeec8c; 
+    /* background-color:  #AFD5EB; */
+    color: rgb(10, 10, 10);
+}
+.border{
+    border-bottom:4px #007bb5;
+    size: 10px;
+    color: #007bb5;
+}
+.navbar{
+    /* background-color:  rgb(187, 110, 59); */
+    
+    background-color:  #1073E5
+}
+#nav h2{
+    /* position: fixed; */
+    position: relative;
+    text-align: center;
+      left: 488px;
+}
+.container1{
+    position: relative;
+    padding: 30px;
+    top: 107px;
+    text-align: left;
+    box-sizing: border-box;
+}
+img{
+    position: relative;
+    height: 301px;
+    width: 556px;
+    left: 50%;
+    top: 21px;
+}
+#img2{
+    position: relative;
+    height: 352px;
+    width: 567px;
+    left: 50%;
+    top: 42px;
+
+}
+.learner{
+    position: relative;
+    height: 292px;
+    width: 556px;
+    left: -25%;
+    top: -17px;
+}
+.anecdote{
+    position: relative;
+    left: 602px;
+    top: -356px;
+}
+.container1 p{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 10px;
+    padding: 0px;
+    font-size:150%;
+    top: -295px;
+}
+.direction1{
+    color: #e3741e;
+    margin: 0px 0px 15px 0px;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 72px;
+    position: relative;
+    left: 20px;
+    top:-295px
+}
+#AboutUs{
+    position: relative;
+    margin: 9px;
+    padding: 23px;
+    top: -85px;
+    font-size: 25px;
+}
+.container2{
+    position: relative;
+    margin: 9px;
+    padding: 23px;
+    top: 100px;
+   
+}
+
+.center{
+    position: relative;
+    left: 35%;
+    color: purple;
+    top: -27px;
+    font-family: fantasy;
+}
+.center2{
+position: relative;
+top: -65px;
+    left: -294px;
+    font-size: 36px;
+    color: purple;
+}
+.center3{
+    position: relative;  
+    top: -30px;
+    color: orangered;
+}
+.java{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 9px;
+    padding: 23px;
+    font-size: 150%;
+    top: -190px;
+    max-width: fit-content;
+}
+#JavaProgramming{
+position: relative;
+top: -217px;
+}
+.wrapper{
+    max-height: 315px;
+    display: flex;
+    border: 10px solid rgb(237, 233, 233);
+    overflow-x: scroll;
+    margin-right: 3px;
+    gap: 10px;
+}
+.Python{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 9px;
+    padding: 23px;
+    font-size: 150%;
+    top: -160px;
+    max-width: fit-content;
+}
+#PythonProgramming{
+    position: relative;
+    top:-95px;
+    }
+.wrapper2{
+        max-height: 315px;
+        display: flex;
+        border: 10px solid rgb(237, 233, 233);
+        overflow-x: scroll;
+        margin-right: 3px;
+        gap: 10px;
+}
+
+.DA{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 9px;
+    padding: 23px;
+    font-size: 150%;
+    top: 35px;
+    max-width: fit-content;
+}
+.wrapper3{
+    max-height: 315px;
+    display: flex;
+    border: 10px solid rgb(237, 233, 233);
+    overflow-x: scroll;
+    margin-right: 3px;
+    gap: 10px;
+}
+.JS{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 9px;
+    padding: 23px;
+    font-size: 150%;
+    top: 101px;
+    max-width: fit-content;
+}
+.wrapper4{
+    max-height: 315px;
+    display: flex;
+    border: 10px solid rgb(237, 233, 233);
+    overflow-x: scroll;
+    margin-right: 3px;
+    gap: 10px;
+}
+.C{
+    font-family: "Montserrat", Sans-serif;
+    text-align: left;
+    position: relative;
+    left: 14px;
+    margin: 9px;
+    padding: 23px;
+    font-size: 150%;
+    top: 160px;
+    max-width: fit-content;
+}
+.wrapper5{
+    max-height: 315px;
+    display: flex;
+    border: 10px solid rgb(237, 233, 233);
+    overflow-x: scroll;
+    margin-right: 3px;
+    gap: 10px;
+}
+p{
+    position: relative;
+    top: 11px;
+}
+.gap{
+    position: relative;
+    top: -12px;
+}
+.container3{
+    position: relative;
+    top: 240px;
+}
+.center5{
+    position: relative;
+    top: -29px;
+    left: 475px;
+    font-size: 36px;
+    color: purple;
+}
+.con{
+    position: relative;
+    right: -512px;
+    top: -14px;
+}
+.center4{
+    position: relative;
+right: -399px;
+}
+.fa {
+    padding: 20px;
+    font-size: 32px;
+    width: 69px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 6px 4px;
+}
+
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }  
+
+   a:hover{
+    color: #2a517e;
+    text-decoration: underline;
+  }
+
+  
+
+
+
+  #myInput {
+    background-image: url('/css/searchicon.png'); 
+    background-position: 10px 12px; 
+    background-repeat: no-repeat; 
+    width: 100%; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    border: 1px solid #ddd; 
+    margin-bottom: 12px; 
+  }
+  
+  #myUL {
+
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #myUL li a {
+    border: 1px solid #ddd;
+    margin-top: -1px;
+    background-color: #f6f6f6;
+    padding: 12px; 
+    text-decoration: none;
+    font-size: 18px;
+    color: black; 
+    display: block; 
+  }
+  
+  #myUL li a:hover:not(.header) {
+    background-color: #eee; 
+  }
